@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Adapter</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="datos">
+        <item>Activity Class I</item>
+        <item>Activity Class II</item>
+        <item>Intent Class I</item>
+        <item>Intent Class II</item>
+        <item>Intent Class III</item>
+    </string-array>
+
+    <string name="select">Has seleccionado: "</string>
+
+    <!-- Botones -->
+    <string name="botonListView">ListView</string>
+    <string name="botonSpinner">Spinner</string>
+    <string name="botonGridView">GridView</string>
+
+</resources>
